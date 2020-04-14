@@ -1,0 +1,12 @@
+{
+  "name": "kanichi",
+  "private": true,
+  "devDependencies": {
+    "lerna": "^3.14.1"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Aastasia/kanichi.git",
+  "author": "ears.xin <ears.xin@alo7.com>",
+  "license": "MIT"
+}

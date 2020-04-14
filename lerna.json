@@ -1,0 +1,22 @@
+{
+  "lerna": "3.14.1",
+  "version": "independent",
+  "packages": [
+    "packages/*"
+  ],
+  "command": {
+    "publish": {
+      "ignoreChanges": [
+        "dist",
+        "node_modules",
+        ".rpt2_cache",
+        "yarn.lock",
+        "tsconfig.json",
+        ".rpt2_cache",
+        "*.md"
+      ],
+      "message": "chore(release): publish",
+      "registry": "https://repos.saybot.net/repository/alo7-private-npm/"
+    }
+  }
+}
