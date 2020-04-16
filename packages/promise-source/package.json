@@ -1,0 +1,22 @@
+{
+  "name": "promise-source",
+  "version": "0.0.1",
+  "license": "MIT",
+  "author": "Alvin <1058990452@qq.com>",
+  "entry": "src/index.js",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "test": "promises-aplus-tests src/index.js"
+  },
+  "devDependencies": {
+    "promises-aplus-tests": "*",
+    "prettier": "^1.14.3"
+  },
+  "prettier": {
+    "semi": false,
+    "singleQuote": true
+  },
+  "gitHead": "29aae2aadecc389442f036d73862b308c98d296c"
+}

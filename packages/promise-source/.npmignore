@@ -15,9 +15,6 @@ rollup.config.js
 tsconfig.json
 tslint.json
 
-yarn.lock
-package-lock.json
-
 logs
 *.log
 npm-debug.log*
