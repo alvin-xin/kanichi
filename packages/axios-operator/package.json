@@ -36,7 +36,7 @@
   },
   "gitHead": "29aae2aadecc389442f036d73862b308c98d296c",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "rxjs": "^6.5.5"
   }
 }
